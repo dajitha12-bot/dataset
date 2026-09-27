@@ -1,0 +1,10 @@
+student_resource/dataset/
+__MACOSX/
+.DS_Store
+**/.DS_Store
+**/._*
+*.zip
+__pycache__/
+*.pyc
+.venv/
+venv/
